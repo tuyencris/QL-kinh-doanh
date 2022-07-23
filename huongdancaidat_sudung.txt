@@ -1,0 +1,10 @@
+﻿Chay chuong trinh khi chay lai tu dau
+B1 : Mở Terminal sau đó cd frontend sau do npm i
+B2 : Gõ cd frontend nhấn enter tiếp theo gõ lệnh npm install react-scripts –save nhấn enter 
+B3 : cd backend sau đó npm i
+B4 : cd backend node server.js
+B5 : cập nhập dữ liệu backend http://localhost:5000/api/products/seed
+B6 : cd frontend sau đó npm start rồi chạy http://localhost:3000/
+
+admin : tuyenvo@gmail.com
+mk : 123456
