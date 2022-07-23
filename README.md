@@ -1,4 +1,6 @@
-# QL-kinh-doanh
-Thành viên :
-             Võ Văn Tuyên
-             #Dương Thị Hiền Vi
+# Do_an_CNTT
+# SV thuc hien: 
+* VÕ VĂN TUYÊN       | MSSV: 122180049
+* DƯƠNG THỊ HIỀN VI  | MSSV: 122180050
+# GVHD:
+NGUYEN TAN KHOI
