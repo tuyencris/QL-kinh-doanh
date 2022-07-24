@@ -1,4 +1,5 @@
-﻿Chay chuong trinh khi chay lai tu dau
+Database : MongoDB trên local hoặc cloud
+Chay chuong trinh khi chay lai tu dau
 B1 : Mở Terminal sau đó cd frontend sau do npm i
 B2 : Gõ cd frontend nhấn enter tiếp theo gõ lệnh npm install react-scripts –save nhấn enter 
 B3 : cd backend sau đó npm i
